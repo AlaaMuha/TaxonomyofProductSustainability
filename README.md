@@ -1,4 +1,4 @@
-# SustainableProductTaxonomy(TPS)
+# Taxonomy of Sustainable Product(TPS)
 
 This repository contains supplementary material for the paper "What you see, What you get? Mapping Inconsistencies of Sustainability
 Judgements among Experts and Consumers".
