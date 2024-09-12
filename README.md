@@ -7,7 +7,7 @@ Judgements among Experts and Consumers".
 
 - `TPS Glossary V1.csv`: The taxonomy data used in our study.
 - `Supplementary Material.pdf`: Detailed descriptions of the data acquisition processes and product description examples.
-       * The process of augmenting expert sustainability knwoledge with textual description in one dataset.
+       * The process of augmenting expert sustainability knowledge with textual description in one dataset.
        * Examples of product descriptions from Amazon that exhibit potential four different cognitive biases. These examples are provided to illustrate how cognitive biases could be triggerd by product descriptions.
 
 ## How to Use
