@@ -6,7 +6,7 @@ https://doi.org/10.1145/3677525.3678695.
 
 ## Contents
 
-- `TPS Glossary V1.csv`: The taxonomy data used in our study.
+- `TPS_V1.csv`: The taxonomy data used in our study.
 - `Supplementary Material.pdf`:
        * Detailed descriptions of the data acquisition processes and product description examples.
        * The process of augmenting expert sustainability knowledge with textual description in one dataset.
@@ -14,7 +14,7 @@ https://doi.org/10.1145/3677525.3678695.
 
 ## How to Use
 
-- **Data**: Taxonomy can be accessed through `TPS Glossary V1.csv`.
+- **Data**: Taxonomy can be accessed through `TPS_V1.csv`.
 - **Supplementary material**: For detailed processes and examples, please download the supplementary material PDF available at: https://zenodo.org/records/12786190.
 
 
