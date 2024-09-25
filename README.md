@@ -17,5 +17,27 @@ https://doi.org/10.1145/3677525.3678695.
 - **Data**: Taxonomy can be accessed through `TPS_V1.csv`.
 - **Supplementary material**: For detailed processes and examples, please download the supplementary material PDF available at: https://zenodo.org/records/12786190.
 
-
 For any questions or issues, please open an issue in this repository.
+
+## Citation
+If you wish to use this data, Please cite the following paper:
+Alaa Altammami, Vania Dimitrova, and Evangelos Pournaras. 2024. What you see, What you get? Mapping Inconsistencies of Sustainability Judgements among Experts and Consumers. In Proceedings of the 2024 International Conference on Information Technology for Social Good (GoodIT '24). Association for Computing Machinery, New York, NY, USA, 443–452. https://doi.org/10.1145/3677525.3678695
+
+Bibtex format:
+@inproceedings{10.1145/3677525.3678695,
+author = {Altammami, Alaa and Dimitrova, Vania and Pournaras, Evangelos},
+title = {What you see, What you get? Mapping Inconsistencies of Sustainability Judgements among Experts and Consumers},
+year = {2024},
+isbn = {9798400710940},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3677525.3678695},
+doi = {10.1145/3677525.3678695},
+booktitle = {Proceedings of the 2024 International Conference on Information Technology for Social Good},
+pages = {443–452},
+numpages = {10},
+location = {Bremen, Germany},
+series = {GoodIT '24}
+}
+
+
