@@ -4,6 +4,8 @@ This repository contains supplementary material for the paper "What you see, Wha
 Judgements among Experts and Consumers". Published in ACM GoodIT '24: Proceedings of the 2024 International Conference on Information Technology for Social Good. September 04–06, 2024, Bremen, Germany.Pages 443 - 452
 https://doi.org/10.1145/3677525.3678695.
 
+The taxonomy is structured around four main sustainability aspects: environment, health, society, and economy. Each aspect groups related concepts, with some (such as environment and society) further divided into subcategories like carbon emissions and animal welfare. Every term in the taxonomy is linked to its sustainability context (e.g., positive or negative labels, certificates) and its expert sources.
+
 ## Contents
 
 - `TPS_V1.csv`: A Taxonomy for Product Sustainability (TPS).
